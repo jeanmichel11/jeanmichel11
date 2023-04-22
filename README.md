@@ -2,10 +2,10 @@
 
 ##
 
-<div>
+<div style="display: inline_block">
    <a href="https://github.com/jeanmichelchevrand">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeanmichelchevrand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmichelchevrand&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmichelchevrand&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
   ##
